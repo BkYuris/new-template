@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nothinggf.png">
+	<SubTexture name="nogf idle0001" x="0" y="0" width="20" height="20"/>
