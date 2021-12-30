@@ -6,4 +6,4 @@ mall
 mallEvil
 school
 schoolEvil
-betadciu-trouble
+betadciu-trouble-bg
