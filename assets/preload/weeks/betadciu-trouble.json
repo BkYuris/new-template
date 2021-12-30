@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"betadciu-trouble",
+			"deadblant",
+			[
+				0,
+				60,
+				140
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"difficulties": "hard", 
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Betadciu Trouble",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
